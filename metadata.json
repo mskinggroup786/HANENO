@@ -1,0 +1,6 @@
+{
+  "name": "ZenScribe",
+  "description": "A serene, AI-powered mindful journal, study spark, and reflection companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
